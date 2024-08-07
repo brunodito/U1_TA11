@@ -1,0 +1,16 @@
+.Number {
+    background-color: salmon;
+    font-family: Verdana, sans-serif;
+}
+#Number2 {
+    color: blue;
+    font-size: 36px;
+}
+#Number4 {
+    background-color: rgb(73, 218, 107);
+    font-size: 24px;
+    font-weight: bold; 
+}
+.size{
+    font-size: 24px;
+}
